@@ -1,3 +1,3 @@
-# curso_html_css
+# curso_html
 
 Creado por Eriksson Morales
