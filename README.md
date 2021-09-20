@@ -1,3 +1,3 @@
 # Mi repositorio del curso HTML y CSS
 
-Creado por Eriksson Morales
+Mi nombre es Eriksson Morales
